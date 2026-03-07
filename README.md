@@ -78,8 +78,8 @@ flowchart TD
     TCPH <--> DBM
   end
 
-  NM <==>|TCP Port 9000 Señalización JSON| TCPH
-  NM <..>|UDP Port 9001 Media Packets| UDPH
+  NM <-->|TCP Port 9000 Señalización JSON| TCPH
+  NM <-.->|UDP Port 9001 Media Packets| UDPH
   DBM <-->|TCP Port 3306| DB[MySQL Database uniwasa_db]
 ```
 
