@@ -1,0 +1,6 @@
+opencv-python
+pyaudio
+mysql-connector-python
+bcrypt
+pillow
+numpy
