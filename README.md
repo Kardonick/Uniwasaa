@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🚀 Uniwasa</h1>
   <h3>Plataforma de Mensajería Instantánea y Teleconferencias</h3>
-  <p><i>Proyecto de Documentación de Software - Universidad Nacional de Ingeniería (FIIS UNI)</i></p>
+  <p><i>Universidad Nacional de Ingeniería (FIIS UNI)</i></p>
 </div>
 
 ---
@@ -228,7 +228,7 @@ erDiagram
 
 ### Requisitos Previos del Sistema
 - Intérprete de Python (v3.8 o superior) en el `PATH` del sistema.
-- Servidor MySQL o MariaDB ejecutándose en el entorno local u hospedado.
+- Servidor MySQL ejecutándose en el entorno local u hospedado.
 - (Cliente) Cámara web y micrófono debidamente configurados a nivel sistema operativo.
 
 ### Pasos de Configuración
